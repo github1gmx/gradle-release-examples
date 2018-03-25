@@ -1,4 +1,4 @@
-# single-project example
+# single-project example1
 
 This is a simple example on how a single project could look like and how the gradle-release plugin is configured.
 
